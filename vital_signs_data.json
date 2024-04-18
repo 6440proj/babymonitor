@@ -1,0 +1,7 @@
+// vital_signs_data.json
+{
+  "heartRate": {"min": 120, "max": 160},
+  "movement": ["Active", "Inactive"],
+  "bloodPressure": {"min": 90, "max": 140},
+  "temperature": {"min": 36.0, "max": 37.5}
+}
